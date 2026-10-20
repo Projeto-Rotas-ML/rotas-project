@@ -1,0 +1,26 @@
+<svg width="102" height="104" viewBox="0 0 102 104" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M20 27C20 16.5066 28.5066 8 39 8H61C71.4934 8 80 16.5066 80 27V49C80 59.4934 71.4934 68 61 68H39C28.5066 68 20 59.4934 20 49V27Z" fill="url(#paint0_linear_4_1756)"/>
+<g filter="url(#filter0_d_4_1756)">
+<path d="M20 27C20 16.5066 28.5066 8 39 8H61C71.4934 8 80 16.5066 80 27V49C80 59.4934 71.4934 68 61 68H39C28.5066 68 20 59.4934 20 49V27Z" fill="white" fill-opacity="0.01" shape-rendering="crispEdges"/>
+</g>
+<path d="M38.75 45.5C38.75 40.5 43.75 41.75 43.75 38C43.75 34.25 38.75 35.5 38.75 30.5" stroke-width="2.625" stroke-linecap="round" stroke-linejoin="round" stroke="white"/>
+<path d="M60 31.75C60 33.8211 58.3211 35.5 56.25 35.5C54.1789 35.5 52.5 33.8211 52.5 31.75C52.5 29.6789 54.1789 28 56.25 28C58.3211 28 60 29.6789 60 31.75Z" stroke-width="2.625" stroke-linecap="round" stroke-linejoin="round" stroke="white"/>
+<path d="M50 45.5C50 47.5711 48.3211 49.25 46.25 49.25C44.1789 49.25 42.5 47.5711 42.5 45.5C42.5 43.4289 44.1789 41.75 46.25 41.75C48.3211 41.75 50 43.4289 50 45.5Z" stroke-width="2.625" stroke-linecap="round" stroke-linejoin="round" stroke="white"/>
+<defs>
+<filter id="filter0_d_4_1756" x="-2" y="0" width="104" height="104" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="8" operator="erode" in="SourceAlpha" result="effect1_dropShadow_4_1756"/>
+<feOffset dy="14"/>
+<feGaussianBlur stdDeviation="15"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.423529 0 0 0 0 0.360784 0 0 0 0 0.905882 0 0 0 0.6 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4_1756"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4_1756" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_4_1756" x1="22.8326" y1="5.62316" x2="77.1674" y2="70.3768" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6C5CE7"/>
+<stop offset="1" stop-color="#8B6BFF"/>
+</linearGradient>
+</defs>
+</svg>
